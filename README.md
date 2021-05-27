@@ -24,3 +24,4 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+https://github.com/MahikaChoudhary/mahika_project.git   tap here for a quick preview of my project.
