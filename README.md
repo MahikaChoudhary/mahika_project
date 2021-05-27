@@ -25,4 +25,4 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 <br>
-<br>https://github.com/MahikaChoudhary/mahika_project.git   tap here for a quick preview of my project.
+<br>https://github.com/MahikaChoudhary/mahika_project.git <pre>  tap here for a quick preview of my project.
